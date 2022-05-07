@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">administracionUsuarios</string>
+    <string name="title_activity_main">administracionUsuarios</string>
+    <string name="package_name">io.administracion.starter</string>
+    <string name="custom_url_scheme">io.administracion.starter</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+	"appId": "io.administracion.starter",
+	"appName": "administracionUsuarios",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
